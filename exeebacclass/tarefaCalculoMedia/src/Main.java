@@ -1,6 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-    System.out.println(imprimirMedia());
+        System.out.println(imprimirMedia());
+        System.out.println(recuperacao());
+
     }
     public static float imprimirMedia() {
         float nota1 = 2;
@@ -9,5 +11,14 @@ public class Main {
         float nota4 = 5;
         return(nota1+nota2+nota3+nota4)/4;
 
+    }
+
+    public static String recuperacao () {
+        if (imprimirMedia()> 5) {
+            return "Aprovado!";
+        }
+        else{
+            return "Reprovado!";
+        }
     }
 }
