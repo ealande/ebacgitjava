@@ -14,10 +14,11 @@ public class Main {
     }
 
     public static String recuperacao () {
-        if (imprimirMedia()> 5) {
+        if (imprimirMedia()>= 7) {
             return "Aprovado!";
-        }
-        else{
+        } else if (imprimirMedia()>=5) {
+            return"Recuperação!";
+        } else{
             return "Reprovado!";
         }
     }
