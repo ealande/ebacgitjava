@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/exeebacclass.iml" filepath="$PROJECT_DIR$/exeebacclass.iml" />
       <module fileurl="file://$PROJECT_DIR$/tarefaCalculoMedia/tarefaCalculoMedia.iml" filepath="$PROJECT_DIR$/tarefaCalculoMedia/tarefaCalculoMedia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tarefa_wrapper/tarefa_wrapper.iml" filepath="$PROJECT_DIR$/tarefa_wrapper/tarefa_wrapper.iml" />
     </modules>
   </component>
 </project>
