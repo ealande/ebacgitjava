@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/tarefa_wrapper/colecoes_part1/colecoes_part1.iml" filepath="$PROJECT_DIR$/tarefa_wrapper/colecoes_part1/colecoes_part1.iml" />
       <module fileurl="file://$PROJECT_DIR$/exeebacclass.iml" filepath="$PROJECT_DIR$/exeebacclass.iml" />
       <module fileurl="file://$PROJECT_DIR$/tarefaCalculoMedia/tarefaCalculoMedia.iml" filepath="$PROJECT_DIR$/tarefaCalculoMedia/tarefaCalculoMedia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tarefaPessoa/tarefaPessoa.iml" filepath="$PROJECT_DIR$/tarefaPessoa/tarefaPessoa.iml" />
       <module fileurl="file://$PROJECT_DIR$/tarefa_colecoes/tarefa_colecoes.iml" filepath="$PROJECT_DIR$/tarefa_colecoes/tarefa_colecoes.iml" />
       <module fileurl="file://$PROJECT_DIR$/tarefa_wrapper/tarefa_wrapper.iml" filepath="$PROJECT_DIR$/tarefa_wrapper/tarefa_wrapper.iml" />
     </modules>
